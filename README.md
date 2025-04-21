@@ -7,10 +7,10 @@ Group members:
 Dataset Descriptions
 This repository contains multiple datasets that were created during different stages of data collection, preprocessing, and classification. Below is a description of each file:
 
-1. so_raw_posts.zip
-Description: This ZIP archive contains the full raw question dataset fetched from Stack Overflow using the Stack Exchange API.
-Format: Original questions with fields such as question_id, title, body, tags, and accepted_answer_id.
-Reason for ZIP: The raw .csv exceeded GitHub’s upload size limit, so it is compressed.
+1. so_raw_posts.zip \n
+Description: This ZIP archive contains the full raw question dataset fetched from Stack Overflow using the Stack Exchange API.\n
+Format: Original questions with fields such as question_id, title, body, tags, and accepted_answer_id.\n
+Reason for ZIP: The raw .csv exceeded GitHub’s upload size limit, so it is compressed.\n
 
 2. raw_data.csv
 Description: A structured version of the raw data with only relevant columns.
