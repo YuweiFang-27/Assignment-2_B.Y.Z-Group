@@ -32,3 +32,6 @@ Use: evaluate the performance of the hybrid classification approach.
 6. bert_balanced_pred.csv
 Description: Predictions from a BERT model fine-tuned on a balanced, rule-labeled subset (max 50 per category).
 Use: evaluate the performance of a purely BERT-based classification approach.
+
+Category classification description：
+We classify expressions such as ”how to”, ”fix”, or ”error” as Implementation Issues; Words such as ”tokenizer” or ”segmentation” belong to the tokenization tasks category; Words such as ”similarity,” ”match,” or ”distance” belong to the category of Text Similarity; We have also set up multiple categories ”Language Identification”, ”Text Classification”, ”NLP Libraries” based on the specific categories of NLP problems.
